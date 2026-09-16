@@ -1,7 +1,7 @@
-## Hi there 👋 ,I am OM VERMA
+## 1.Hi there 👋 ,I am OM VERMA
 A computer Science enthusiast passionate about backend development and building practical web application.
 ---
-### ⚒️ Tech Stack & Skills
+### 2.⚒️ Tech Stack & Skills
 
 - **Languages:** Python ,C
 - **Backend & web:** FastAPI, REST APIs
@@ -10,19 +10,19 @@ A computer Science enthusiast passionate about backend development and building 
 - **Tools & Environment:** Visual Studio Code ,Github,Git
 
 ---
-### BE-FARM (WEB APPLICATION)
+### 3.🌾BE-FARM (WEB APPLICATION)
 - In project I am build a backend using python ,FastAPI for farmers.
 - firstly farmer registered on web.
 -  Without wasting the time,farmers can generate a token for selling Crops in Mandi.
   
 ---
-### 🔭 What I am Working On 
+### 4.🔭 What I am Working On 
 - Developing backend services  and REST APIs for web application.
 - Solving Data Structure and Algorithams problem on leetcode.
 - Preparing for hackathons and collaborative software projects.
 
 ---
-### Let's Connect !
+### 5. 🛜Let's Connect !
 - **Email:** sureshverma67895@gmail.com
 
 
