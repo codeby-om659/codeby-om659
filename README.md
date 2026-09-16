@@ -13,8 +13,8 @@ A computer Science enthusiast passionate about backend development and building 
 ### 3.🌾BE-FARM (WEB APPLICATION)
 - In project I am build a backend using python ,FastAPI for farmers.
 - firstly farmer registered on web.
--  Without wasting the time,farmers can generate a token for selling Crops in Mandi.
-  
+- Without wasting the time,farmers can generate a token for selling Crops in Mandi.
+- for detailed Informations you open my BE-FARM repo.
 ---
 ### 4.🔭 What I am Working On 
 - Developing backend services  and REST APIs for web application.
