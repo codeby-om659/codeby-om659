@@ -24,6 +24,7 @@ A computer Science enthusiast passionate about backend development and building 
 ---
 ### 5. 🛜Let's Connect !
 - **Email:** sureshverma67895@gmail.com
+- **LinkedIN:** https://www.linkedin.com/in/om-verma-625b2b432?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 
 
