@@ -19,8 +19,8 @@ A computer Science enthusiast passionate about backend development and building 
 - Without wasting the time,farmers can generate a token for selling Crops in Mandi.
 - for detailed Informations you open my BE-FARM repo.
 <div align="center">
-  <a href="https://github.com/codeby-om659/BE-FARM-Agriculture">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-om659&repo=BE-FARM-Agriculture&theme=radial" alt="Be-Farm repository" />
+  <a href="https://github.com/codeby-om659/Project-Befarm-Agriculture ">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-om659&repo=Project-Befarm-Agriculture &theme=radial" alt="Be-Farm repository" />
   </a>
 </div>
 ---
