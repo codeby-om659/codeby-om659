@@ -20,12 +20,8 @@ A computer Science enthusiast passionate about backend development and building 
 - for detailed Informations you open my BE-FARM repo.
 
 [![Project-Befarm-Agriculture](https://github-readme-stats.vercel.app/api/pin/?username=codeby-om659&repo=Project-Befarm-Agriculture&theme=radial)](https://github.com/codeby-om659/Project-Befarm-Agriculture)
-<div align="center">
-  <a href="https://github.com/codeby-om659/Project-Befarm-Agriculture ">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-om659&repo=Project-Befarm-Agriculture &theme=radial" alt="Be-Farm repository" />
-  </a>
-</div>
----
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codeby-om659&show_icons=true&theme=radial" alt="GitHub Stats" width="48% />
