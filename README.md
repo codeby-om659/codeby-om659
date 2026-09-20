@@ -20,12 +20,6 @@ A computer Science enthusiast passionate about backend development and building 
 - for detailed Informations you open my BE-FARM repo.
 ---
 
-### 4. Features 
-- **Authentication:** Secure JWT-based login and OTP verification.
-- **High Performance:** Asynchronous API endpoints with FastAPI.
-- **Database Integration:** Relational Schema design with MySQL.
-- **REST API:** Clean, structured endpoints for web and mobile clients.
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codeby-om659&show_icons=true&theme=radial" alt="GitHub Stats" width="48% />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-om659&layout=compact&theme=radial" alt="Top Languages" width="48%" />
