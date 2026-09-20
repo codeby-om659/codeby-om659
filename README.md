@@ -8,6 +8,9 @@ A computer Science enthusiast passionate about backend development and building 
 - **Databases:** MySQL
 - **Data Analysis/ Tools:** Pandas, NumPy, Matplotlib
 - **Tools & Environment:** Visual Studio Code ,Github,Git
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeby-om659&theme=dark" alt="Github Streak" />
+</p>
   
 ---
 ### 3.🌾BE-FARM (WEB APPLICATION)
