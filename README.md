@@ -24,8 +24,8 @@ A computer Science enthusiast passionate about backend development and building 
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeby-om659&show_icons=true&theme=radial" width="48" alt="GitHub Stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-om659&layout=compact&theme=radial" width="48" alt="Top Languages" />
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=codeby-om659&show_icons=true&theme=radial" width="48" alt="GitHub Stats"  />
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=codeby-om659&layout=compact&theme=radial" width="48" alt="Top Languages" />
 </div>
 ---
 
