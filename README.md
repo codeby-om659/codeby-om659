@@ -8,7 +8,7 @@ A computer Science enthusiast passionate about backend development and building 
 - **Databases:** MySQL
 - **Data Analysis/ Tools:** Pandas, NumPy, Matplotlib
 - **Tools & Environment:** Visual Studio Code ,Github,Git
-
+  
 ---
 ### 3.🌾BE-FARM (WEB APPLICATION)
 - In project I am build a backend using python ,FastAPI for farmers.
@@ -16,6 +16,17 @@ A computer Science enthusiast passionate about backend development and building 
 - Without wasting the time,farmers can generate a token for selling Crops in Mandi.
 - for detailed Informations you open my BE-FARM repo.
 ---
+
+### 4. Features 
+- **Authentication:** Secure JWT-based login and OTP verification.
+- **High Performance:** Asynchronous API endpoints with FastAPI.
+- **Database Integration:** Relational Schema design with MySQL.
+- **REST API:** Clean, structured endpoints for web and mobile clients.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username&show_icons=true&theme=radial" alt="GitHub Stats" width="48% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+</div>
 ### 4.🔭 What I am Working On 
 - Developing backend services  and REST APIs for web application.
 - Solving Data Structure and Algorithams problem on leetcode.
